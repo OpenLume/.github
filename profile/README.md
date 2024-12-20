@@ -2,5 +2,5 @@
 
 This document is currently available in:
 
-- [English](/.github/blob/main/profile/README_en.md)
-- [Português](/.github/blob/main/profile/README_pt.md)
+- [English](https://github.com/OpenLume/.github/blob/main/profile/README_en.md)
+- [Português](https://github.com/OpenLume/.github/blob/main/profile/README_pt.md)
